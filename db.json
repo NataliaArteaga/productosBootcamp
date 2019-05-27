@@ -1,0 +1,29 @@
+{
+    "productos": [
+      {
+        "nombre": "panela del cauca",
+        "precio": 2000,
+        "id": 6
+      },
+      {
+        "nombre": "panela del cauca",
+        "precio": 2000,
+        "id": 7
+      },
+      {
+        "nombre": "Natalia",
+        "precio": "78",
+        "id": 8
+      },
+      {
+        "nombre": "asdf",
+        "precio": "jh",
+        "id": 9
+      },
+      {
+        "nombre": "Ba",
+        "precio": "12",
+        "id": 10
+      }
+    ]
+  }
