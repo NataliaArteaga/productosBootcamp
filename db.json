@@ -1,28 +1,28 @@
 {
     "productos": [
       {
-        "nombre": "panela del cauca",
+        "nombre": "Panela del cauca",
         "precio": 2000,
         "id": 6
       },
       {
-        "nombre": "panela del cauca",
+        "nombre": "Pollo",
         "precio": 2000,
         "id": 7
       },
       {
-        "nombre": "Natalia",
-        "precio": "78",
+        "nombre": "Carne",
+        "precio": "7800",
         "id": 8
       },
       {
-        "nombre": "asdf",
-        "precio": "jh",
+        "nombre": "Lentejas",
+        "precio": "700",
         "id": 9
       },
       {
-        "nombre": "Ba",
-        "precio": "12",
+        "nombre": "Pastas",
+        "precio": "1200",
         "id": 10
       }
     ]
